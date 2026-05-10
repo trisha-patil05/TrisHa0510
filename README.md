@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha0510.trisha0510" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-patil05.trisha0510" alt="Visitor Count" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 - ✔️ **Highlights:** Smooth UI/UX, dynamic pricing, real-time order flow
 
 <p>
-  <a href="https://github.com/trisha0510/pizza-delivery-app">
+  <a href="https://github.com/trisha-patil05/pizza-delivery-app">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
   </a>
 </p>
@@ -58,7 +58,7 @@
 - ✔️ **Highlights:** Secure role-based access, organized dashboard, streamlined submission process
 
 <p>
-  <a href="https://github.com/trisha0510/assignment-management-system">
+  <a href="https://github.com/trisha-patil05/assignment-management-system">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
   </a>
 </p>
@@ -146,7 +146,7 @@
   <a href="https://instagram.com/trisha_p_05" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://github.com/trisha0510" target="_blank">
+  <a href="https://github.com/trisha-patil05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="mailto:trishapatil05@gmail.com">
