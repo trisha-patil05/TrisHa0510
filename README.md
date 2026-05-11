@@ -3,10 +3,6 @@
   <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trisha-patil05/TrisHa0510/main/1.png" width="180" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
 <h3 align="center">💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
 
