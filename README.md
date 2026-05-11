@@ -1,19 +1,22 @@
 <!-- Open to Work Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Trisha Patil</h1>
-<h3 align="center">💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
-
-<p align="center">
-  <a href="mailto:trishapatil05@gmail.com">📧 trishapatil5102005@gmail.com</a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-patil05.trisha0510" alt="Visitor Count" />
-</p>
-
+<table>
+  <tr>
+    <td valign="top" width="200">
+      <img src="https://raw.githubusercontent.com/trisha-patil05/TrisHa0510/main/1.png" width="180" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
+      <h2>Hi 👋, I'm Trisha Patil</h2>
+      <h3>💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
+      <p>
+        <a href="mailto:trishapatil5102005@gmail.com">📧 trishapatil5102005@gmail.com</a>
+      </p>
+      <p>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-patil05.trisha0510" alt="Visitor Count" />
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 👩‍💻 About Me
