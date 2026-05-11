@@ -1,5 +1,5 @@
 <!-- Open to Work Badge -->
-
+<center>
   <tr>
     <td valign="top">
       <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
@@ -13,6 +13,7 @@
       </p>
     </td>
   </tr>
+</center>
 
 ---
 
