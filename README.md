@@ -1,9 +1,6 @@
 <!-- Open to Work Badge -->
 <table>
   <tr>
-    <td valign="top" width="200">
-      <img src="https://raw.githubusercontent.com/trisha-patil05/TrisHa0510/main/1.png" width="180" />
-    </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
       <h2>Hi 👋, I'm Trisha Patil</h2>
