@@ -6,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;B.Tech+IT+2027" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
