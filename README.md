@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=00F700&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Trisha+Patil" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;B.Tech+IT+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Trisha+Patil" />
 </p>
 
 </p>
