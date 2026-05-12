@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Trisha+Patil" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✨+Trisha+Patil+✨" />
 </h1>
 
 <h3 align="center">
