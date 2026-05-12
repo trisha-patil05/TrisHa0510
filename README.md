@@ -27,9 +27,10 @@
 
 ## 🔭 Currently
 
-- 🛠️ Enhancing my **Assignment Management System** with an analytics dashboard
-- 🌱 Learning **TypeScript** and **REST API best practices**
-- 👀 Open to: Full-Stack / MERN Developer roles (Batch 2027)
+- 🛠️ Building: Assignment Management System v2 with analytics dashboard
+- 🌱 Currently learning: TypeScript · Next.js · System Design basics
+- 🎯 Goal: On-campus placement 2027 | Open to internships now
+- 📍 Location: Gujarat, India
 
 ---
 
@@ -102,8 +103,20 @@
 ## 💼 Internship Experience
 
 **Zymo Research**
-- 🔹 Developed 3+ UI components and advertisement banners improving visual consistency across the web platform
-- 🔹 Contributed to mobile app features using **Flutter & Dart** — learned cross-platform development
+- 🔹 Built 4+ reusable UI components reducing design inconsistency across web platform
+- 🔹 Developed advertisement banners integrated into production website
+- 🔹 Contributed to Flutter mobile app — implemented 2 new screens with state management
+- 🔹 Tech used: HTML · CSS · JavaScript · Flutter · Dart
+
+---
+## 💡 DSA & Problem Solving
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Practicing-orange?style=flat&logo=leetcode)
+![GFG](https://img.shields.io/badge/GeeksforGeeks-Practicing-green?style=flat&logo=geeksforgeeks)
+
+- 🔢 Practicing: Arrays · Strings · Trees · Graphs · DP
+- 🎯 Platform: LeetCode · GeeksforGeeks
+- 📁 Solutions: [dsa-with-javascript](https://github.com/trisha-patil05/dsa-with-javascript)
 
 ---
 
