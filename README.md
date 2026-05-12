@@ -20,11 +20,13 @@
 
 ## 👩‍💻 About Me
 
-🚀 Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
-🎓 B.Tech in Information Technology @ **Uka Tarsadia University, Bardoli, Gujarat** (Batch 2027)  
-💡 I build real-world web apps — from academic workflow tools to seamless food ordering platforms  
-💼 Seeking **Full-Stack / MERN Developer** roles | Open to internships & placement opportunities
+## 🚀 About Me
 
+- 🎓 B.Tech IT Student (2027)
+- 💻 Full-Stack MERN Developer
+- 🌱 Currently learning DSA & System Design
+- 🔭 Building real-world React & Node.js projects
+- ⚡ Interested in Web Development & IT Automation
 ---
 
 ## 🔭 Currently
