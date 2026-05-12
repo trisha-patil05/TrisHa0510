@@ -43,7 +43,7 @@
 - ✔️ **Highlights:** Smooth UI/UX, dynamic pricing, real-time order flow
 
 <p>
-  <a href="https://github.com/trisha-patil05/pizza-delivery-app">
+  <a href="https://github.com/trisha-patil05">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
   </a>
 </p>
@@ -58,7 +58,7 @@
 - ✔️ **Highlights:** Secure role-based access, organized dashboard, streamlined submission process
 
 <p>
-  <a href="https://github.com/trisha-patil05/assignment-management-system">
+  <a href="https://github.com/trisha-patil05">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
   </a>
 </p>
@@ -102,8 +102,8 @@
 ## 💼 Internship Experience
 
 **Zymo Research**
-- 🔹 Developed UI components and advertisement banners for the web platform
-- 🔹 Contributed to mobile app development using **Flutter & Dart**
+- 🔹 Developed 3+ UI components and advertisement banners improving visual consistency across the web platform
+- 🔹 Contributed to mobile app features using **Flutter & Dart** — learned cross-platform development
 
 ---
 
